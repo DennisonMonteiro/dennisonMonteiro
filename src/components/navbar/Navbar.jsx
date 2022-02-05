@@ -14,7 +14,7 @@ const Navbar = () => {
             <ul className='header-items'>
                 <li className='item'>
                     <AiOutlineHome className='item-icon' />
-                    <a href="/portfolio-dennison-monteiro">Home</a>
+                    <a href="/dennisonMonteiro">Home</a>
                 </li>
                 <li className='item'>
                     <GrContactInfo className='item-icon' />
