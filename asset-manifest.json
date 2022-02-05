@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio-dennison-monteiro/static/css/main.61974a23.css",
-    "main.js": "/portfolio-dennison-monteiro/static/js/main.c9604f2a.js",
+    "main.css": "/portfolio-dennison-monteiro/static/css/main.cb07d21b.css",
+    "main.js": "/portfolio-dennison-monteiro/static/js/main.ea665d37.js",
     "index.html": "/portfolio-dennison-monteiro/index.html",
-    "main.61974a23.css.map": "/portfolio-dennison-monteiro/static/css/main.61974a23.css.map",
-    "main.c9604f2a.js.map": "/portfolio-dennison-monteiro/static/js/main.c9604f2a.js.map"
+    "main.cb07d21b.css.map": "/portfolio-dennison-monteiro/static/css/main.cb07d21b.css.map",
+    "main.ea665d37.js.map": "/portfolio-dennison-monteiro/static/js/main.ea665d37.js.map"
   },
   "entrypoints": [
-    "static/css/main.61974a23.css",
-    "static/js/main.c9604f2a.js"
+    "static/css/main.cb07d21b.css",
+    "static/js/main.ea665d37.js"
   ]
 }
