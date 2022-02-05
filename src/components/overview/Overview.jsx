@@ -2,7 +2,7 @@ import './Overview.css'
 import profile from '../../assets/images/profile.jpg'
 import Typed from 'typed.js'
 import { useEffect, useRef } from 'react'
-import { AiOutlineGithub, AiOutlineLinkedin, AiOutlineTwitter } from 'react-icons/ai'
+import { AiOutlineGithub, AiOutlineLinkedin } from 'react-icons/ai'
 
 const Overview = () => {
     const el = useRef(null)
