@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/dennisonMonteiro/static/css/main.cb07d21b.css",
-    "main.js": "/dennisonMonteiro/static/js/main.bc724e66.js",
+    "main.css": "/dennisonMonteiro/static/css/main.11b79617.css",
+    "main.js": "/dennisonMonteiro/static/js/main.b4d95f63.js",
+    "static/media/profile.jpg": "/dennisonMonteiro/static/media/profile.adae79dfb2ce0a6c4c1d.jpg",
     "index.html": "/dennisonMonteiro/index.html",
-    "main.cb07d21b.css.map": "/dennisonMonteiro/static/css/main.cb07d21b.css.map",
-    "main.bc724e66.js.map": "/dennisonMonteiro/static/js/main.bc724e66.js.map"
+    "main.11b79617.css.map": "/dennisonMonteiro/static/css/main.11b79617.css.map",
+    "main.b4d95f63.js.map": "/dennisonMonteiro/static/js/main.b4d95f63.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb07d21b.css",
-    "static/js/main.bc724e66.js"
+    "static/css/main.11b79617.css",
+    "static/js/main.b4d95f63.js"
   ]
 }
