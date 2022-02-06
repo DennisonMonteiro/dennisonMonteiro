@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/dennisonMonteiro/static/css/main.11b79617.css",
-    "main.js": "/dennisonMonteiro/static/js/main.b4d95f63.js",
+    "main.css": "/dennisonMonteiro/static/css/main.8396edcb.css",
+    "main.js": "/dennisonMonteiro/static/js/main.736b93e4.js",
+    "static/media/curriculo_english.pdf": "/dennisonMonteiro/static/media/curriculo_english.fdfcec54afaff0dbf410.pdf",
     "static/media/profile.jpg": "/dennisonMonteiro/static/media/profile.adae79dfb2ce0a6c4c1d.jpg",
     "index.html": "/dennisonMonteiro/index.html",
-    "main.11b79617.css.map": "/dennisonMonteiro/static/css/main.11b79617.css.map",
-    "main.b4d95f63.js.map": "/dennisonMonteiro/static/js/main.b4d95f63.js.map"
+    "main.8396edcb.css.map": "/dennisonMonteiro/static/css/main.8396edcb.css.map",
+    "main.736b93e4.js.map": "/dennisonMonteiro/static/js/main.736b93e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.11b79617.css",
-    "static/js/main.b4d95f63.js"
+    "static/css/main.8396edcb.css",
+    "static/js/main.736b93e4.js"
   ]
 }
