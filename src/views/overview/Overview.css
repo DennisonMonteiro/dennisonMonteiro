@@ -39,29 +39,10 @@
     display: flex;
     padding: 5px 0;
     width: 120px;
+    height: 42px;
     border-radius: 5px;
     align-items: center;
     justify-content: center;
     text-decoration: none;
     color: #fff;
-}
-
-.icon {
-    font-size: 2rem;
-    color: #fff;
-    padding-right: 10px;
-}
-
-.github {
-    background: #2a2a2a;
-}
-.github:hover {
-    background: #383838;
-}
-
-.linkedin {
-    background: #0a66c2;
-}
-.linkedin:hover {
-    background: #147ee9;
 }

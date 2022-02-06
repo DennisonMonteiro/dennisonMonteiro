@@ -1,6 +1,7 @@
 import './Overview.css'
 import profile from '../../assets/images/profile.jpg'
 import Typed from 'typed.js'
+import Btn from '../../components/btn/Btn';
 import { useEffect, useRef } from 'react'
 import { AiOutlineGithub, AiOutlineLinkedin } from 'react-icons/ai'
 
@@ -30,14 +31,20 @@ const Overview = () => {
                 <h2 className='overview-intro'>and i'm a <span ref={el}></span></h2>
                 <p className='overview-social'>Find me on social media:</p>
                 <div className='overview-btns'>
-                    <a href='https://github.com/DennisonMonteiro' target= '_blank' rel='noreferrer' className='github'>
-                        <AiOutlineGithub className='icon' />
-                        Github
-                    </a>
-                    <a href='https://www.linkedin.com/in/dennison-monteiro-16a21318b/' target= '_blank' rel='noreferrer' className='linkedin'>
-                        <AiOutlineLinkedin className='icon' />
-                        Linkedin
-                    </a>
+                    <Btn
+                        title={ 'Github' }
+                        link={ 'https://github.com/DennisonMonteiro' }
+                        background={ '#2a2a2a' }
+                        hover = { '#383838' }
+                        icon={ <AiOutlineGithub className='icon'/> }
+                    />
+                    <Btn
+                        title={ 'Linkedin' }
+                        link={ 'https://www.linkedin.com/in/dennison-monteiro-16a21318b/' }
+                        background={ '#0a66c2' }
+                        hover = { '#147ee9' }
+                        icon={ <AiOutlineLinkedin className='icon'/> }
+                    />
                 </div>
             </div>
             <div className='overview-picture'>
