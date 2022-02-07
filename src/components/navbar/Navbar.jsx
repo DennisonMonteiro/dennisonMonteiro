@@ -2,7 +2,6 @@ import './Navbar.css'
 
 import { HiOutlineCode } from 'react-icons/hi'
 import { AiOutlineHome, AiOutlineContacts } from 'react-icons/ai'
-import { MdOutlineCastForEducation } from 'react-icons/md'
 import { GiSkills } from 'react-icons/gi'
 import { GrProjects, GrContactInfo } from 'react-icons/gr'
 
@@ -19,10 +18,6 @@ const Navbar = () => {
                 <li className='item'>
                     <GrContactInfo className='item-icon' />
                     <a href="#about">About</a>
-                </li>
-                <li className='item'>
-                    <MdOutlineCastForEducation className='item-icon' />
-                    <a href="#education">Education</a>
                 </li>
                 <li className='item'>
                     <GiSkills className='item-icon' />
