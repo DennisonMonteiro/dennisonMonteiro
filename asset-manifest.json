@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dennisonMonteiro/static/css/main.bd403dec.css",
-    "main.js": "/dennisonMonteiro/static/js/main.cdb94243.js",
+    "main.css": "/dennisonMonteiro/static/css/main.9cd0373e.css",
+    "main.js": "/dennisonMonteiro/static/js/main.9577672b.js",
     "static/media/curriculo_english.pdf": "/dennisonMonteiro/static/media/curriculo_english.fdfcec54afaff0dbf410.pdf",
     "static/media/cs.png": "/dennisonMonteiro/static/media/cs.456d41f630085700b5d8.png",
     "static/media/aspnet.png": "/dennisonMonteiro/static/media/aspnet.7fa2d4c3416f743ea3d2.png",
@@ -13,11 +13,11 @@
     "static/media/html.png": "/dennisonMonteiro/static/media/html.e77138c4c431579d25d0.png",
     "static/media/ef.png": "/dennisonMonteiro/static/media/ef.9b265e958f9ca4c01dc7.png",
     "index.html": "/dennisonMonteiro/index.html",
-    "main.bd403dec.css.map": "/dennisonMonteiro/static/css/main.bd403dec.css.map",
-    "main.cdb94243.js.map": "/dennisonMonteiro/static/js/main.cdb94243.js.map"
+    "main.9cd0373e.css.map": "/dennisonMonteiro/static/css/main.9cd0373e.css.map",
+    "main.9577672b.js.map": "/dennisonMonteiro/static/js/main.9577672b.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd403dec.css",
-    "static/js/main.cdb94243.js"
+    "static/css/main.9cd0373e.css",
+    "static/js/main.9577672b.js"
   ]
 }
