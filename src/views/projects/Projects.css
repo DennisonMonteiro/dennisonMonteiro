@@ -1,0 +1,20 @@
+.p-section {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 25px;
+}
+
+.p-title {
+    display: flex;
+    justify-content: center;
+
+    padding: 15px 0;
+    font-size: 35px;
+    font-weight: 300;
+}
+
+.p-container {
+    display: flex;
+    width: 100%;
+    padding: 0 50px;
+}
