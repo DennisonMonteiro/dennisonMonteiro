@@ -1,7 +1,7 @@
 import './ProjectCard.css'
 
 import Btn from '../../components/btn/Btn';
-import { AiOutlineGithub, AiOutlineChrome } from 'react-icons/ai'
+import { AiOutlineGithub } from 'react-icons/ai'
 
 const ProjectCard = ({ projectsObject }) => {
     return (
