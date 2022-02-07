@@ -1,15 +1,15 @@
 import SkillCard from '../../components/skillCard/SkillCard';
 import './Skills.css'
 
-import git from '../../assets/images/git.png'
-import html from '../../assets/images/html.png'
-import css from '../../assets/images/css.png'
-import js from '../../assets/images/js.png'
-import react from '../../assets/images/react.png'
-import cs from '../../assets/images/cs.png'
-import aspnet from '../../assets/images/aspnet.png'
-import sql from '../../assets/images/sql.png'
-import ef from '../../assets/images/ef.png'
+import git from '../../assets/images/skills/git.png'
+import html from '../../assets/images/skills/html.png'
+import css from '../../assets/images/skills/css.png'
+import js from '../../assets/images/skills/js.png'
+import react from '../../assets/images/skills/react.png'
+import cs from '../../assets/images/skills/cs.png'
+import aspnet from '../../assets/images/skills/aspnet.png'
+import sql from '../../assets/images/skills/sql.png'
+import ef from '../../assets/images/skills/ef.png'
 
 const Skills = ({title}) => {
     return (

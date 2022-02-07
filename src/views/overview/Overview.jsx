@@ -1,5 +1,5 @@
 import './Overview.css'
-import profile from '../../assets/images/profile.jpg'
+import profile from '../../assets/images/profile/profile.jpg'
 import Typed from 'typed.js'
 import Btn from '../../components/btn/Btn';
 import { useEffect, useRef } from 'react'

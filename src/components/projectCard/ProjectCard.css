@@ -1,0 +1,52 @@
+.p-card {
+    display: flex;
+    flex-direction: column;
+    max-width: 512px;
+    background: #E7F2F8;
+    border-radius: 5px;
+    border: 1px solid rgba(37, 37, 37, 0.4);
+}
+
+.p-wrapper {
+    padding: 6px;
+}
+
+.p-card-title {
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.p-card-description p {
+    word-wrap: break-word;
+    font-size: 24px;
+    font-weight: 300;
+    padding: 8px;
+}
+
+.p-card-technologies {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.p-card-technologies-badge {
+    padding: 2px 5px;
+    margin: 0 5px;
+    border-radius: 5px;
+    background: #FFA384;
+
+}
+
+.p-buttons {
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+}
+
+.p-buttons .wrapper {
+    padding: 0 8px;
+}
