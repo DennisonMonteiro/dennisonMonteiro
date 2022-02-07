@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/dennisonMonteiro/static/css/main.8396edcb.css",
-    "main.js": "/dennisonMonteiro/static/js/main.736b93e4.js",
+    "main.css": "/dennisonMonteiro/static/css/main.950507dd.css",
+    "main.js": "/dennisonMonteiro/static/js/main.5d4bbd9e.js",
     "static/media/curriculo_english.pdf": "/dennisonMonteiro/static/media/curriculo_english.fdfcec54afaff0dbf410.pdf",
+    "static/media/aspnet.png": "/dennisonMonteiro/static/media/aspnet.62f07a000465e8f7d9e2.png",
+    "static/media/cs.png": "/dennisonMonteiro/static/media/cs.456d41f630085700b5d8.png",
+    "static/media/sql.png": "/dennisonMonteiro/static/media/sql.753c3adb40e9d68fb78e.png",
     "static/media/profile.jpg": "/dennisonMonteiro/static/media/profile.adae79dfb2ce0a6c4c1d.jpg",
+    "static/media/css.png": "/dennisonMonteiro/static/media/css.9f33c557b92e4e2e1cc8.png",
+    "static/media/js.png": "/dennisonMonteiro/static/media/js.166865dacb77d214f485.png",
+    "static/media/react.png": "/dennisonMonteiro/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/html.png": "/dennisonMonteiro/static/media/html.e77138c4c431579d25d0.png",
+    "static/media/ef.png": "/dennisonMonteiro/static/media/ef.9b265e958f9ca4c01dc7.png",
     "index.html": "/dennisonMonteiro/index.html",
-    "main.8396edcb.css.map": "/dennisonMonteiro/static/css/main.8396edcb.css.map",
-    "main.736b93e4.js.map": "/dennisonMonteiro/static/js/main.736b93e4.js.map"
+    "main.950507dd.css.map": "/dennisonMonteiro/static/css/main.950507dd.css.map",
+    "main.5d4bbd9e.js.map": "/dennisonMonteiro/static/js/main.5d4bbd9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8396edcb.css",
-    "static/js/main.736b93e4.js"
+    "static/css/main.950507dd.css",
+    "static/js/main.5d4bbd9e.js"
   ]
 }
